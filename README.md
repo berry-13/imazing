@@ -43,6 +43,8 @@ Questa guida ti mostra come installare applicazioni sul tuo iPad usando iMazing 
 - Unisciti al [gruppo Telegram](https://t.me/+IxfvztmYmwQ5YTY8) per scaricare i file IPA
 - Cerca il nome dell'app su Telegram e scarica l'ultima versione disponibile: il numero della versione è solitamente indicato nel nome del file
 
+   <img src="https://github.com/user-attachments/assets/5a875c5d-1f49-4c36-a016-724e0256938f" alt="QR Code Telegram" width="200">
+
 ## Aggiornamento delle Applicazioni
 
 Per aggiornare un'app, segui i passaggi di installazione. Di regola non dovresti perdere login o progressi, anche se non garantito. Se l'aggiornamento fallisce, prova a rimuovere l'app prima di reinstallarla tramite iMazing, ma fai attenzione: potresti non riuscire a reinstallarla
