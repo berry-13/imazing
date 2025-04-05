@@ -7,6 +7,7 @@ Questa guida ti mostra come installare applicazioni sul tuo iPad usando iMazing 
 - **iMazing**: Installato su Mac o PC
 - **iPad**: Collegato al computer tramite cavo USB
 - **File IPA**: Il file dell'applicazione desiderata
+- **Canale Telegram**: Scarica file IPA dal [gruppo Telegram](https://t.me/+IxfvztmYmwQ5YTY8)
 
 ## Procedura di Installazione
 
@@ -36,6 +37,11 @@ Questa guida ti mostra come installare applicazioni sul tuo iPad usando iMazing 
 
 7. **Controlla l'Installazione**
    - Assicurati che l'app sia stata aggiunta al tuo iPad
+
+## Scaricare File IPA
+
+- Unisciti al [gruppo Telegram](https://t.me/+IxfvztmYmwQ5YTY8) per scaricare i file IPA
+- Cerca il nome dell'app su Telegram e scarica l'ultima versione disponibile: il numero della versione è solitamente indicato nel nome del file
 
 ## Aggiornamento delle Applicazioni
 
