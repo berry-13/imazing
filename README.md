@@ -1,4 +1,4 @@
-# Guida per Installare App su iMazing con File IPA
+# Guida per Installare App su iMazing con File IPA (APRILE 2025)
 
 Questa guida ti mostra come installare applicazioni sul tuo iPad usando iMazing e file IPA. Assicurati che iMazing sia già installato sul computer
 
